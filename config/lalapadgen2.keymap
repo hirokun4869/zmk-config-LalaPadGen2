@@ -83,7 +83,7 @@
 &kp A      &kp S       &kp D                  &kp F              &kp G                                            &kp H      &kp J                  &kp K             &kp L              &mt2 EQUAL MINUS
 &kp Z      &kp X       &kp C                  &kp V              &kp B                                            &kp N      &kp M                  &kp COMMA         &kp PERIOD         &kp SLASH
 &kp LCTRL  &kp LWIN    &kp LEFT_ALT           &lt 2 ESC          &kp SPACE        &kp LEFT_SHIFT   &kp BACKSPACE  &kp ENTER  &lt 1 INTERNATIONAL_1  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &new_macro
-           &kp K_MUTE  &kp LC(K_SCREENSAVER)  &kp K_VOLUME_DOWN  &kp PRINTSCREEN  &kp K_VOLUME_UP  &kp UP         &kp LEFT   &kp DOWN               &kp RIGHT         &kp LC(P)
+           &kp C_MUTE  &kp LC(K_SCREENSAVER)  &kp C_VOLUME_DOWN  &kp PRINTSCREEN  &kp C_VOLUME_UP  &kp UP         &kp LEFT   &kp DOWN               &kp RIGHT         &kp LC(P)
 &mkp LCLK  &mkp RCLK   &mkp MCLK                                                                                                                    &mkp LCLK         &mkp RCLK          &mkp MCLK
 &mkp MB4   &mkp MB5    &kp LG(TAB)            &kp LG(D)          &kp LCTRL                                        &mkp MB4   &mkp MB5               &kp LG(TAB)       &kp LG(D)          &kp LCTRL
             >;
